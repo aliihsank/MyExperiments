@@ -1,3 +1,3 @@
 # Fikirler:
 
-- Neural network'leri kullanan data structure
+- Neural network yapısı kullanan data structure
