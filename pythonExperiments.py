@@ -1,6 +1,6 @@
 # Find indexes of elements cumulatively and remove from 2D-list
 
-''' Find and add indexes to a list
+''' Find and add indexes to a list '''
 numOfUniqueValsForCatCols.append(numOfUniqueValsForCatCols[-1] + numOfUniqueVals)
 
 ''' Remove elements that is in specified positions '''
